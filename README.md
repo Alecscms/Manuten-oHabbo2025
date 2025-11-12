@@ -1,18 +1,4 @@
-pagina-manutencao/
-│
-├─ index.html             → Página principal
-├─ assets/                → Arquivos de mídia e scripts
-│   ├─ css/
-│   │   └─ app.css        → Estilos da página
-│   ├─ js/
-│   │   └─ app.js         → Scripts (contagem, fotos, fundo dinâmico)
-│   ├─ images/
-│   │   ├─ retros/        → Fotos nostálgicas (foto1.png até foto14.png)
-│   │   ├─ backgrounds/   → Imagens de fundo (dia, amanhecer, noite, madrugada)
-│   │   └─ video.mp4      → Vídeo da manutenção
-Perfeito! Aqui vai uma explicação **completa da página de manutenção**, só texto, sem instruções de GitHub:
 
----
 
 # Explicação da Página de Manutenção
 
